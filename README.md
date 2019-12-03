@@ -1,6 +1,6 @@
 ### Duet
 
-+ Duet을 따라 만들었스니다.
++ Duet을 따라 만들었습니다.
 
   [Duet](https://play.google.com/store/apps/details?id=com.kumobius.android.duet&hl=ko)
   
